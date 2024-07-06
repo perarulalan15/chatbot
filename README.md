@@ -3,6 +3,8 @@
 # Project Overview
 The goal is to build a chatbot capable of engaging in conversations with different personalities. This chatbot adapts its responses based on the personality it is set to exhibit, making interactions more engaging and contextually appropriate. This can be highly valuable in various applications such as customer service, entertainment, and education.
 
+![overview](https://raw.githubusercontent.com/perarulalan15/chatbot/main/Screenshot%202024-07-06%20100310.png)
+
 # Key Features
 
 Multiple Personalities
