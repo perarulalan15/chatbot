@@ -1,0 +1,3 @@
+# Welcome to Chaterly! 🚀🤖
+
+Chaterly is an innovative chatbot designed to enhance user interactions by tailoring responses based on selectable personalities. Leveraging advanced language models and NLP techniques, Chaterly offers three distinct personality modes: Friendly, Formal, and Humorous. Users can choose their preferred interaction style, allowing for a more engaging and personalized experience. Whether you need a casual chat, professional assistance, or a bit of humor, Chaterly to meet your conversational needs.
