@@ -2,7 +2,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 import getpass
 import os
 
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "Groq_api_key"
 
 from langchain_groq import ChatGroq
 
