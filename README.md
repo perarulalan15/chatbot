@@ -8,9 +8,9 @@ The goal is to build a chatbot capable of engaging in conversations with differe
 # Key Features
 
 Multiple Personalities
-1.Friendly: Uses casual, warm, and approachable language.
-2.Formal: Uses professional, polite, and structured language.
-3.Humorous: Incorporates jokes, light-hearted comments, and a playful tone.
+1. Friendly: Uses casual, warm, and approachable language.
+2. Formal: Uses professional, polite, and structured language.
+3. Humorous: Incorporates jokes, light-hearted comments, and a playful tone.
 
 # Personality Switch
 The chatbot can switch between personalities based on user input or context.
