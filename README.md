@@ -14,7 +14,6 @@ Multiple Personalities
 
 # Personality Switch
 The chatbot can switch between personalities based on user input or context.
-Users can choose or change the chatbot's personality during the conversation.
+Users can choose or change the chatbot's personality.
 Contextual Understanding
 The chatbot maintains the context of the conversation across different personalities.
-It remembers past interactions to provide coherent and relevant responses.
